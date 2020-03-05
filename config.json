@@ -1,0 +1,9 @@
+{
+  "host": "0.0.0.0",
+  "port": "715",
+  "frame_width": "128",
+  "frame_height": "64",
+  "frame_sampling": "1",
+  "video_path": "video/",
+  "ver": "v0.3"
+}
