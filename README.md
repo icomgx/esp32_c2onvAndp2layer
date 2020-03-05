@@ -1,15 +1,18 @@
 # esp32_c2onvAndp2layer 
 ## ESP32 P2layer 包括转换程序和播放器上位机...
+## 编译打包完成的地址：https://c-t.work/s/fc30bef6bb634b
 ## 关于效果可以看一下这个视频：https://www.bilibili.com/video/av93223051
 ## B站主页 https://space.bilibili.com/23106193 有想法和建议欢迎私信我
 ## 开发工具：pycharm 环境：Anaconda3（python 3.7.4）  
 ## 使用库： pillow, opencv-python, numpy  
 ## 目录结构
-### -fc/ 是转换完成可以播放的fc文件存放位置
-### -video/ 待转换视频存放位置 最好是mp4文件
-### - c2onv.exe 彩色视频用转换程序
-### - c3onv.exe 单色视频转换用程序(类似 bad apple的视频用)
-### - p2lyer.exe 播放器上位机程序
+### venv/ 虚拟环境
+### main/ 使用的方法
+#### /conv.py 转换模块
+#### /videoCut.py 视频切片模块
+### - c2onv.py 彩色视频用转换程序
+### - c3onv.py 单色视频转换用程序(类似 bad apple的视频用)
+### - p2layer.py 播放器上位机程序
 ### - config.json 配置文件
 ```json
 {
