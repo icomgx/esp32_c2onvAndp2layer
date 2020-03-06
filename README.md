@@ -1,6 +1,6 @@
 # esp32_c2onvAndp2layer 
 ## ESP32 P2layer 包括转换程序和播放器上位机...
-## 编译打包完成的地址：https://c-t.work/s/fc30bef6bb634b
+## 编译打包完成的地址：https://c-t.work/s/fdd28030fc5b43
 ## 关于效果可以看一下这个视频：https://www.bilibili.com/video/av93223051
 ## B站主页 https://space.bilibili.com/23106193 有想法和建议欢迎私信我
 ## 开发工具：pycharm 环境：Anaconda3（python 3.7.4）  
