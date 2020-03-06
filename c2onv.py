@@ -65,7 +65,7 @@ def frameProcess():
             d2ta.write(str(d3ta))  # 写入文件
             d2ta.close()  # 关闭
             d3ta.clear()
-            del res[:]  # 清空数组
+
 
 
 if __name__ == '__main__':
